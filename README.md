@@ -31,4 +31,4 @@ To run this project locally, follow these simple steps:
     streamlit run app.py
     ```
 
-**Note:** Please upload your CSV to get started.
+**Note:** Please upload your PDF to get started.
