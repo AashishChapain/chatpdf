@@ -16,7 +16,7 @@ To run this project locally, follow these simple steps:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd CHAT_PDF
+    cd chatpdf
     ```
 3. Install the required dependencies. It's recommended to use a virtual environment
     ```bash
